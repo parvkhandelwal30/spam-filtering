@@ -52,4 +52,5 @@ Feel free to fork the repository and submit pull requests for improvements.
 
 
 Contact
+
 For any queries, reach out at parvkhandelwal30@gmail.com
